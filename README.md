@@ -1,6 +1,12 @@
 ![Algopat](./image/algopat-logo.png/ "Algopat Logo")  
 
-Algopat은 AI기반 알고리즘 소스코드 피드백 서비스입니다. 시간 및 공간 복잡도와 리팩토링에 대한 피드백을 제공해줍니다.
+
+![mockuuups-iphone-12-mockup-perspective-left](https://github.com/user-attachments/assets/0faecd66-46b7-4fbf-a5e9-76d6e135002e)
+
+
+#### AI기반 알고리즘 소스코드 피드백 서비스입니다. 시간 및 공간 복잡도와 리팩토링에 대한 피드백을 제공해줍니다.  
+
+
 
 <!-- ## ✨ 프로젝트 주요 기술 
 
@@ -35,6 +41,33 @@ Algopat은 AI기반 알고리즘 소스코드 피드백 서비스입니다. 시�
         - FileBeats를 통해 도커 컨테이너의 필요한 로그 선별
         - 선별된 로그 Logstash를 통해 파싱한 후 Elasticsearch에 저장
         - 저장된 로그 데이터를 Kibana에서 시각화를 통해 더 쉽게 로그를 확인할 수 있는 환경을 구축했습니다. -->
+
+
+## 📋 페이지  
+
+### 문제풀이  
+![크롬4](https://github.com/user-attachments/assets/d18e8864-489c-4f28-9c80-d982512450bf)
+<!-- 
+### 메인 페이지  
+![detail1](./image/detail1.gif) 
+-->
+### 코드 분석 결과 페이지  
+![detail2](./image/detail2.gif)  
+### 랭킹 페이지  
+![detail3](./image/detail3.gif)  
+### 랭킹 상세 페이지  
+![detail4](./image/detail4.png)  
+### 마이페이지  
+![detail5](./image/detail5.gif) 
+
+<!--
+### 분석 결과 알림 (Chrome Extension)
+<img src="./image/detail_extension1.png" height="400px" width="400px" /> <img src="./image/detail_extension2.png" height="400px" width="400px" /> <br>
+-->
+
+### 📋 시스템 아키텍처
+
+![아키텍처](./image/system.png)
 
 ## 🛠️ 기술 스택
 
@@ -122,24 +155,6 @@ Algopat은 AI기반 알고리즘 소스코드 피드백 서비스입니다. 시�
 </details>
 </div>
 
-
-## 📋 상세 페이지  
-
-### 메인 페이지  
-![detail1](./image/detail1.gif)  
-### 코드 분석 결과 페이지  
-![detail2](./image/detail2.gif)  
-### 랭킹 페이지  
-![detail3](./image/detail3.gif)  
-### 랭킹 상세 페이지  
-![detail4](./image/detail4.png)  
-### 마이페이지  
-![detail5](./image/detail5.gif) 
-### 분석 결과 알림 (Chrome Extension)
-<img src="./image/detail_extension1.png" height="400px" width="400px" /> <img src="./image/detail_extension2.png" height="400px" width="400px" /> <br>
-
-
-
 ## 👪 개발 멤버 소개
 
 <table>
@@ -170,9 +185,11 @@ Algopat은 AI기반 알고리즘 소스코드 피드백 서비스입니다. 시�
 
 ---
 
-### 📋 시스템 아키텍처
+### 📆 프로젝트 기간 (23.04.10 ~ 23.05.19)
 
-![아키텍처](./image/system.png)
+- 기획 및 설계 : 23.04.10 ~ 23.04.16
+- 프로젝트 구현 : 23.04.17 ~ 23.05.14
+- 버그 수정 및 산출물 정리 : 23.05.15 ~ 23.05.19
 
 
 ---
@@ -182,12 +199,6 @@ Algopat은 AI기반 알고리즘 소스코드 피드백 서비스입니다. 시�
 ![ERD](./image/erd.png)
 
 --- -->
-
-### 📆 프로젝트 기간 (23.04.10 ~ 23.05.19)
-
-- 기획 및 설계 : 23.04.10 ~ 23.04.16
-- 프로젝트 구현 : 23.04.17 ~ 23.05.14
-- 버그 수정 및 산출물 정리 : 23.05.15 ~ 23.05.19
 
 
 <!-- ## 👥 협업 관리  
